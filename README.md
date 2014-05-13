@@ -1,5 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/redactor-rails.png)](http://badge.fury.io/rb/redactor-rails)
-# Rails 3.2 Integration for Redactor (Devise Edition)
+# Rails 4.1 Integration for Redactor (Devise Edition)
 
 The redactor-rails gem integrates the [Redactor](http://redactorjs.com/) editor with the Rails 3.2 asset pipeline.
 
